@@ -1,6 +1,6 @@
 # Agregue su nombre en orden alfabético y sin repetir
 STUDENTS = [
-    "Estudiante 1",
+    "Martin, Pedro",
     "Estudiante 2",
     "Estudiante 3",
 ]
