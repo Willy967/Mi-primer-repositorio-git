@@ -3,6 +3,6 @@ STUDENTS = ["Briceño, Wilson",
     "Martin, Pedro",
     "Mealla, victor",
     "Estudiante 3",
-    "Pagella, Sabrina"
+    "Pagella, Sabrina",
     "Zanché Franco 2"
 ]
